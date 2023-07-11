@@ -16,8 +16,13 @@ We chose the stocks for our own portfolio, which consists of Adobe, Amazon, and 
 # Citations
 
 Quantitative Stock Price Analysis with Python, pandas, NumPy matplotlib & SciPy; https://www.youtube.com/watch?v=PkzVU7Klic0
+
 Python rolling Sharpe ratio with Pandas or NumPy: https://stackoverflow.com/questions/49091044/python-rolling-sharpe-ratio-with-pandas-or-numpy
+
 Portfolio Data Whale, Algo, and sp500: Source UC Berkeley Extension
+
 Portfolio Data Adobe: Source Google Finance 
+
 Portfolio Data Amazon: Source Google Finance
+
 Portfolio Data Meta: Source Google Finance

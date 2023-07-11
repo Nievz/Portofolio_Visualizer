@@ -1,5 +1,4 @@
-![image](https://github.com/Nievz/Portofolio_Visualizer/assets/135930235/a0f18b44-7355-48bf-bd0e-31542c03363f)
-
+https://images.pexels.com/photos/7947663/pexels-photo-7947663.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
 # Portofolio_Visualizer
 This tool, examines and visualizes the major metrics of portfolios, such as volatility, returns, risk, and Sharpe ratios, in order to determine which portfolio is performing the best across all of the various areas. This tool is analyzing the historical daily returns of a number of different portfolios, some of which come from the algorithmic portfolios of a company, some of which represent the portfolios of well-known "whale" investors like Warren Buffett, and some of which come from large hedge funds and mutual funds. This analysis is used by the tool to compare its performance against other portfolios as well as the S&P 500 Index.
 
@@ -28,3 +27,5 @@ Portfolio Data Adobe: Source Google Finance
 Portfolio Data Amazon: Source Google Finance
 
 Portfolio Data Meta: Source Google Finance
+
+Image Source: https://images.pexels.com
